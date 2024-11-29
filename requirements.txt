@@ -1,0 +1,36 @@
+langchain
+openai
+python-dotenv
+langchain_openai
+langchain_community
+
+pypdf
+tiktoken
+chromadb
+numexpr
+
+# for newsletter project
+wikipedia
+google-search-results
+unstructured
+python-magic
+libmagic
+faiss-cpu
+
+regex
+requests
+
+# for multidocs project
+docx2txt
+
+# Azure resources
+azure-storage-blob
+azure-identity
+azure.core
+
+streamlit
+streamlit_chat
+
+# Huggingface
+transformers
+torch
